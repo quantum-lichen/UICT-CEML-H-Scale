@@ -1,0 +1,19 @@
+# Constantes physiques
+planck_mass: 2.176e-8  # kg
+golden_ratio: 1.61803398875
+kappa: 0.9997  # Coefficient de compression UICT
+
+# Seuils
+ceml_threshold: 0.618
+hscale_threshold: 0.618
+
+# Particules de référence
+particles:
+  electron:
+    name: "Électron"
+    n: 43
+    real_mass: 9.109e-31  # kg
+  proton:
+    name: "Proton"
+    n: 33
+    real_mass: 1.672e-27  # kg
